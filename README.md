@@ -176,3 +176,5 @@ Aspiring Software & Embedded Systems Engineer
 ## 📄 License
 
 This project is open-source and available for educational and learning purposes.
+
+<img width="768" height="778" alt="image" src="https://github.com/user-attachments/assets/d4980a97-8359-4fc4-9ba5-a07d6e9669d0" />
