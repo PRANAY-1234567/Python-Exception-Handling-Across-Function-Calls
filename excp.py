@@ -2,7 +2,6 @@ def division(x, y):
     d = x // y  # Integer division like Java
     print("Division is", d)
 
-
 print("Program starts...")
 
 try:
